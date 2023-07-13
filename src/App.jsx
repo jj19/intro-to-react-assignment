@@ -58,7 +58,7 @@ function App() {
 	return (
 		<div className='App'>
 			<header>
-				<h1 className='bg-dark'>User Profiles:</h1>
+				<h1 className='bg-dark roboto'>User Profiles:</h1>
 			</header>
 			<div className='user-profile-wrapper'>
 				{

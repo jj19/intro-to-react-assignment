@@ -10,7 +10,7 @@ header {
   font-size: 1.7em;
 }
 .user-profile {
-  border: 1px solid #ddd;
+  border: 0px solid #ddd;
   border-radius: 5px;
   padding: 20px;
   margin: 20px;

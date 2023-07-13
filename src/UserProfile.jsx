@@ -10,7 +10,7 @@ function UserProfile(props) {
 					<Card.Body className='bg-tertiary'>
 						<Card.Title className='playFair'>{props.name}</Card.Title>
 						<Card.Text className='roboto'>{props.email}</Card.Text>
-						{/* <Button variant="primary">Go somewhere</Button> */}
+						<Button variant="dark">Learn More</Button>
 					</Card.Body>
 				</Card>
 			</div>
