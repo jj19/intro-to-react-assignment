@@ -32,3 +32,11 @@ header {
   font-size: calc(10px + 1.5vmin);
   color: white;
 }
+
+.roboto {
+  font-family: 'Roboto';
+}
+
+.playFair{
+  font-family: 'Playfair Display';
+}
